@@ -50,12 +50,11 @@ A non-exhaustive collection of third-party clients and mods for Discord.
 | [Discord PTB](https://ptb.discord.com) | [Web](https://ptb.discord.com/app), [Windows](https://discord.com/api/download/ptb?platform=win), [macOS](https://discord.com/api/download/ptb?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/ptb?platform=linux), [Tarball](https://discord.com/api/download/ptb?platform=linux&format=tar.gz) | Public Test Build |
 | [Discord Canary](https://canary.discord.com) | [Web](https://canary.discord.com/app), [Windows](https://discord.com/api/download/canary?platform=win), [macOS](https://discord.com/api/download/canary?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/canary?platform=linux), [Tarball](https://discord.com/api/download/canary?platform=linux&format=tar.gz) | Discord's [canary build](https://semaphoreci.com/blog/what-is-canary-deployment), releases features earlier than PTB |
 | Discord Development | [Windows](https://discord.com/api/download/development?platform=win), [macOS](https://discord.com/api/download/development?platform=osx), [Debian/Ubuntu](https://discord.com/api/download/development?platform=linux), [Tarball](https://discord.com/api/download/development?platform=linux&format=tar.gz) | Essentially Discord's canary build but with updates a few days earlier |
-
 ### Mods
 
 | Name | Features | Language(s) | Development Status |
 | :---: | :---: | :---: | :---: |
-| [Acord](https://acord.app/) | Fix Discord’s sloppy jobs and breathe new life to the client. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
+| [Acord](https://acord.app/) | Fix Discord's sloppy jobs and breathe new life to the client.. | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) | Simple Python script that adds CSS hot-reload to Discord. | [![Python][Python-Badge]][Python-Url] | 🟢 Active |
 | [BetterDiscord](https://betterdiscord.app/) | BetterDiscord extends the functionality of DiscordApp by enhancing it with new features.  | [![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
 | [Demoncord](https://git.ruthenic.com/Demon/demoncord-rewrite) | A Discord client mod by satanists, for satanists. |[![JavaScript][JavaScript-Badge]][JavaScript-Url] | 🟢 Active |
